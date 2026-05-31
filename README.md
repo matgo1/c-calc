@@ -9,7 +9,7 @@ It's very CLI coclulator. Just summurize, subtruct, multipy and divide.
 
 ## Instalation
 If you need fast CLI calculator:
-''' bash
+``` bash
 git clone https://github.com/matgo1/c-caclc.git
 cd c-calc
 make
