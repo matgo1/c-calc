@@ -1,4 +1,4 @@
-# c-caclc
+# c-calc
 Calculator in pure c by pure vim. OG programming.
 
 ## Goal
@@ -10,7 +10,7 @@ It's very CLI coclulator. Just summurize, subtruct, multipy and divide.
 ## Instalation
 If you need fast CLI calculator:
 ``` bash
-git clone https://github.com/matgo1/c-caclc.git
+git clone https://github.com/matgo1/c-calc.git
 cd c-calc
 make
 ./calc
