@@ -17,4 +17,4 @@ make
 ```
 
 ## Future plans
-Maybe I'll add more functions in the future or rewrite this in rust🦀 with better parsing 
+Maybe I'll add more functions in the future or rewrite this in rust🦀 with better parsing. 
