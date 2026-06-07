@@ -1,5 +1,5 @@
 # c-calc
-Calculator in pure c by pure vim. OG programming.
+Calculator in pure C by pure Vim. OG programming.
 
 ## Goal
 Feel how it was to program in pure C by clear vim. Also it helps to write code with full understanding what are you doing.
